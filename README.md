@@ -1,7 +1,7 @@
 Stops a hidden base game bug from crashing cities with many road intersections.
 
 # What does it fix?
-Cities: Skylines II has a bug in the base game that can crash it to desktop once a city has a lot of road intersections, for example several large road grids.
+Cities: Skylines II has a design flaw in the base game that can crash it to desktop once a city has a lot of road intersections, for example several large road grids.
 
 The game reserves room in memory for the data it uses to shape the terrain under your roads. It decides how much room to reserve with a simple rule: count the roads and assume each one needs 6 pieces of data. That works for a road between two simple bends, but every intersection adds extra pieces. A road with an intersection at both ends needs 10, not 6.
 
