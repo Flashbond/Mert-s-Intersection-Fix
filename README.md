@@ -51,5 +51,5 @@ Please include this information with your feedback:
 # Community & Feedback
 **Official Discussion Hub:** Please join the conversation and share your feedback on my official Paradox Plaza forum thread.
 **Where to reach me:**
-- **Reddit:** Post your screenshots or feedback on r/CitiesSkylines and tag me or send a DM to \*\*\*/u/EmotionalCourse6266\*\*\*
+- **Reddit:** Post your screenshots or feedback on r/CitiesSkylines and tag me or send a DM to ***/u/EmotionalCourse6266***
 - **Direct:** flashbond@gmail.com
