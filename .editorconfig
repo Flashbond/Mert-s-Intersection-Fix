@@ -1,0 +1,13 @@
+root = true
+
+[*.{cs,vb}]
+
+dotnet_diagnostic.CA1811.severity = warning
+
+dotnet_diagnostic.CA1823.severity = warning
+
+dotnet_diagnostic.CA1812.severity = warning
+
+dotnet_diagnostic.CA1801.severity = warning
+
+dotnet_diagnostic.IDE0005.severity = warning

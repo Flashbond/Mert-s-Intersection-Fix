@@ -1,0 +1,9 @@
+{
+  "name": "Mert's Intersection Fix",
+  "id": "MertsIntersectionFix",
+  "version": "1.0.0",
+  "description": "Stops a hidden base game bug from crashing cities with many road intersections.",
+  "author": "Flashbond",
+  "game": "cs2",
+  "dependencies": []
+}
